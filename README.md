@@ -4,8 +4,8 @@
 # :star:  COMPONENTE METODOLOGICO
 
 # PLANTEAMIENTO :smirk:
-# ALCANCE
+# :trollface: ALCANCE
 # JUSTIFICACIÓN 🙈
-# OBJETIVOS
+# :feelsgood: OBJETIVOS
 # :smiling_imp: OBJETIVOS GENERALES
 # :kiss: OBJETIVOS ESPECIFICOS
