@@ -6,6 +6,6 @@
 # PLANTEAMIENTO :smirk:
 # :collision: ALCANCE
 # JUSTIFICACIÓN 🙈
-# :feelsgood: OBJETIVOS
+# :bust_in_silhouette:OBJETIVOS
 # :smiling_imp: OBJETIVOS GENERALES
 # :kiss: OBJETIVOS ESPECIFICOS
