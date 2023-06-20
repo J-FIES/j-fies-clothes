@@ -3,6 +3,8 @@
 
 # :star:  COMPONENTE METODOLOGICO
 
+# LOGOTIPO
+# SLOGAN
 # PLANTEAMIENTO :smirk:
 # :collision: ALCANCE
 # JUSTIFICACIÓN 🙈
