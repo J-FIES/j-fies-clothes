@@ -1,32 +1,65 @@
-# :collision: J-FIES-Clothes:collision:
+# :black_circle::collision: J-FIES-Clothes:collision:
 
 
-# :star:  COMPONENTE METODOLOGICO
+# :black_circle::star:  COMPONENTE METODOLOGICO
 
-# LogoTipo
+# :black_circle:LogoTipo
 ![logotipo2](https://github.com/J-FIES/j-fies-clothes/assets/135650607/5432be05-8af2-44f6-bebe-00a98dbee378)
 
-# Slogan 
-"The Best you can use ..."
-# Planteamiento
+# :black_circle:Slogan 
+⭐"The Best you can use ..."⭐
+# :black_circle:Planteamiento
 DEFINICIÓN DEL PROBLEMA: 
 
 En el día a día, a la mayoría de personas se les presenta una situación en común, en dónde surge la pregunta “¿Qué voy a usar el día de hoy?”.  Esta frase es más común de lo que parece, en donde el  individuo no tiene claridad sobre la ropa que desea usar ese día siendo así que se presentan problemas como ya use esta prenda o no me gusta aquella prenda.
 
-# Objetivos Generales
-# Objetivos Especificos
+# :black_circle:Objetivos Generales
+Crear un programa de inventario en la cual se puedan registrar prendas de ropa que son puestas por el usuario y que este mismo pueda categorizar la ropa a su estilo.
+# :black_circle:Objetivos Especificos
 El objetivo de nuestra aplicación es ayudar a que el usuario pueda guardar y categorizar sus prendas en un “armario virtual” el cual el mismo organizará y añadido a esto se le mostrara ideas de oufits a través de imágenes.
-# Justificación
+# :black_circle:Justificación
 Esta aplicación está creada en base a la vacilación que tienen las personas a la hora de vestirse, pues todos los días el ser humano se ve en conflicto frente a esta situación, es por esto que nos basamos en esta necesidad comunal para crear esta aplicación. 
-# Solución
+# :black_circle:Solución
 La solución que nosotros tenemos a esta problemática es crear una aplicacion/pagina web en la cual tu puedas almacenar qué tipo de ropa usas frecuentemente guardandola en un sistema de inventarios, en base a lo anterior se relaciona qué tipo ropa posees y sus múltiples combinaciones, basadas en tus gustos y en la tendencia que se tenga en el momento. 
-# Alcance
+# :black_circle:Alcance
 Principalmente el sistema que va a tener esta página web o aplicación está basado en la recolección de datos otorgados por el usuario, siendo así, que este ponga cuáles son las prendas que suele utilizar constantemente. 
 
 Propósito: La audiencia a la que se busca llegar es todo el público, pues esta aplicación o página web la va poder usar desde un niño de 10 años hasta una persona mayor de 50 años. 
 Crear una aplicación/página web en la cual se encuentre almacenado la ropa de la persona, combinaciones de la ropa que el usuario usa frecuentemente, esta respuesta será basada en la tendencia que se tenga en la actualidad y en los gustos del usuario.  
-# Requerimientos Funcionales
-# Requerimientos No Funcionales
+# :black_circle:Requerimientos Funcionales
+Usuario:
+<br>
+Ingresar al programa para tener un inventario propio mediante un usuario y contraseña.
+<br>
+El usuario podrá ingresar las prendas que desee.
+<br>
+El sistema como método de seguridad podrá hacer que el  usuario pueda salir de la cuenta.
+<br>
+El usuario podrá categorizar las prendas.
+<br>
+El usuario tendrá la disponibilidad de sus datos personales ingresados en cualquier momento.
+<br>
+El usuario tendrá acceso al registro de las prendas que desee.  
+<br>
+El sistema va a permitir que el usuario pueda registrar y eliminar prendas en el sistema de inventarios.
+<br>
+El sistema va a permitir que el usuario pueda visualizar desde el inicio una galería de imágenes de sus prendas.
+<br>
+Administrador:
+<br>
+El Administrador podrá tener un registro de los movimientos en el inventario. 
+<br>
+El administrador podrá cambiar  el estado de las prendas del almacenamiento
+<br>
+El Administrador podrá tender registro del número de usuarios
+<br>
+El Administrador Podrá actualizar la pagina o aplicacion  
+<br>
+El Administrador podrá ubicar los usuarios
+<br>
+El Administrador podrá ubicar las prendas
+<br>
+# :black_circle:Requerimientos No Funcionales
 Requerimiento no funcional:
 <br>
 El sistema va presentar una interfaz de usuario confiable y estable.
@@ -41,7 +74,7 @@ EL sistema tendrá un Mantenimiento con un tiempo indefinido.
 <br>
 El sistema va presentar unos estándares a cualquier sistema. 
 <br>
-# Diagrama Casos De Uso
+# :black_circle:Diagrama Casos De Uso
 ![Captura de pantalla 2023-06-20 134553](https://github.com/J-FIES/j-fies-clothes/assets/135650607/9c412d3f-b145-4d43-97b8-efcd03fd9899)
 
 
