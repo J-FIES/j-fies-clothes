@@ -17,10 +17,15 @@ Esta aplicación está creada en base a la vacilación que tienen las personas a
 # REQUERIMIENTOS NO FUNCIONALES
 Requerimiento no funcional:
 El sistema va presentar una interfaz de usuario confiable y estable.
+
 El sistema presentará la Seguridad en contra del acceso no autorizado.
+
 El sistema va a presentar una confiabilidad con cualquier plataforma. 
+
 El sistema presentará un rendimiento de 24 horas todos los días. 
+
 EL sistema tendrá un Mantenimiento con un tiempo indefinido.
+
 El sistema va presentar unos estándares a cualquier sistema. 
 # DIAGRAMA CASOS DE USO
 
