@@ -7,15 +7,15 @@
 ![logotipo2](https://github.com/J-FIES/j-fies-clothes/assets/135650607/5432be05-8af2-44f6-bebe-00a98dbee378)
 
 # Slogan 
-⭐"The Best you can use ..."⭐
+"The Best you can use ..."
 # Planteamiento
 DEFINICIÓN DEL PROBLEMA: 
 
-🌟En el día a día, a la mayoría de personas se les presenta una situación en común, en dónde surge la pregunta “¿Qué voy a usar el día de hoy?”.  Esta frase es más común de lo que parece, en donde el  individuo no tiene claridad sobre la ropa que desea usar ese día siendo así que se presentan problemas como ya use esta prenda o no me gusta aquella prenda.🌟
+En el día a día, a la mayoría de personas se les presenta una situación en común, en dónde surge la pregunta “¿Qué voy a usar el día de hoy?”.  Esta frase es más común de lo que parece, en donde el  individuo no tiene claridad sobre la ropa que desea usar ese día siendo así que se presentan problemas como ya use esta prenda o no me gusta aquella prenda.
 
 # Objetivos Generales
 # Objetivos Especificos
-⭐El objetivo de nuestra aplicación es ayudar a que el usuario pueda guardar y categorizar sus prendas en un “armario virtual” el cual el mismo organizará y añadido a esto se le mostrara ideas de oufits a través de imágenes.⭐
+El objetivo de nuestra aplicación es ayudar a que el usuario pueda guardar y categorizar sus prendas en un “armario virtual” el cual el mismo organizará y añadido a esto se le mostrara ideas de oufits a través de imágenes.
 # Justificación
 Esta aplicación está creada en base a la vacilación que tienen las personas a la hora de vestirse, pues todos los días el ser humano se ve en conflicto frente a esta situación, es por esto que nos basamos en esta necesidad comunal para crear esta aplicación. 
 # Solución
