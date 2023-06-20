@@ -61,18 +61,19 @@ El Administrador podrá ubicar las prendas
 
 # :black_circle:Requerimientos No Funcionales
 Requerimiento no funcional:
+
 El sistema va presentar una interfaz de usuario confiable y estable.
-<br>
+
 El sistema presentará la Seguridad en contra del acceso no autorizado.
-<br>
+
 El sistema va a presentar una confiabilidad con cualquier plataforma. 
-<br>
+
 El sistema presentará un rendimiento de 24 horas todos los días. 
-<br>
+
 EL sistema tendrá un Mantenimiento con un tiempo indefinido.
-<br>
+
 El sistema va presentar unos estándares a cualquier sistema. 
-<br>
+
 # :black_circle:Diagrama Casos De Uso
 ![Captura de pantalla 2023-06-20 134553](https://github.com/J-FIES/j-fies-clothes/assets/135650607/9c412d3f-b145-4d43-97b8-efcd03fd9899)
 
