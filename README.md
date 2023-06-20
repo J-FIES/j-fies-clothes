@@ -28,40 +28,39 @@ Propósito: La audiencia a la que se busca llegar es todo el público, pues esta
 Crear una aplicación/página web en la cual se encuentre almacenado la ropa de la persona, combinaciones de la ropa que el usuario usa frecuentemente, esta respuesta será basada en la tendencia que se tenga en la actualidad y en los gustos del usuario.  
 # :black_circle:Requerimientos Funcionales
 Usuario:
-<br>
+
 Ingresar al programa para tener un inventario propio mediante un usuario y contraseña.
-<br>
+
 El usuario podrá ingresar las prendas que desee.
-<br>
+
 El sistema como método de seguridad podrá hacer que el  usuario pueda salir de la cuenta.
-<br>
+
 El usuario podrá categorizar las prendas.
-<br>
+
 El usuario tendrá la disponibilidad de sus datos personales ingresados en cualquier momento.
-<br>
+
 El usuario tendrá acceso al registro de las prendas que desee.  
-<br>
+
 El sistema va a permitir que el usuario pueda registrar y eliminar prendas en el sistema de inventarios.
-<br>
+
 El sistema va a permitir que el usuario pueda visualizar desde el inicio una galería de imágenes de sus prendas.
-<br>
+
 Administrador:
-<br>
+
 El Administrador podrá tener un registro de los movimientos en el inventario. 
-<br>
+
 El administrador podrá cambiar  el estado de las prendas del almacenamiento
-<br>
+
 El Administrador podrá tender registro del número de usuarios
-<br>
+
 El Administrador Podrá actualizar la pagina o aplicacion  
-<br>
+
 El Administrador podrá ubicar los usuarios
-<br>
+
 El Administrador podrá ubicar las prendas
-<br>
+
 # :black_circle:Requerimientos No Funcionales
 Requerimiento no funcional:
-<br>
 El sistema va presentar una interfaz de usuario confiable y estable.
 <br>
 El sistema presentará la Seguridad en contra del acceso no autorizado.
