@@ -4,6 +4,7 @@
 # :star:  COMPONENTE METODOLOGICO
 
 # LOGOTIPO
+
 # SLOGAN
 # PLANTEAMIENTO
 # OBJETIVOS GENERALES
@@ -30,5 +31,6 @@ EL sistema tendrá un Mantenimiento con un tiempo indefinido.
 El sistema va presentar unos estándares a cualquier sistema. 
 <br>
 # DIAGRAMA CASOS DE USO
+![Captura de pantalla 2023-06-20 134553](https://github.com/J-FIES/j-fies-clothes/assets/135650607/9c412d3f-b145-4d43-97b8-efcd03fd9899)
 
 
