@@ -1,7 +1,7 @@
 # :collision: J-FIES-Clothes:collision:
 
 
-# :star:  COMPONENTE METODOLOGICO
+# :star:  COMPONENTE METODOLOGICO :star:
 
 # :black_circle:LogoTipo
 ![logotipo2](https://github.com/J-FIES/j-fies-clothes/assets/135650607/5432be05-8af2-44f6-bebe-00a98dbee378)
