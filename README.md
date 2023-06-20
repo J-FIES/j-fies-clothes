@@ -10,6 +10,7 @@
 "The Best you can use ..."
 # Planteamiento
 DEFINICIÓN DEL PROBLEMA: 
+
 En el día a día, a la mayoría de personas se les presenta una situación en común, en dónde surge la pregunta “¿Qué voy a usar el día de hoy?”.  Esta frase es más común de lo que parece, en donde el  individuo no tiene claridad sobre la ropa que desea usar ese día siendo así que se presentan problemas como ya use esta prenda o no me gusta aquella prenda.
 
 # Objetivos Generales
