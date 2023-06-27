@@ -24,6 +24,9 @@
 #  DICCIONARIO DE DATOS
 ![image](https://github.com/J-FIES/j-fies-clothes/assets/135650607/ca951b30-0296-439c-ae01-93f7caabd32f)
 ![image](https://github.com/J-FIES/j-fies-clothes/assets/135650607/ee3c5629-c21d-47f3-a687-b7f463ac9f98)
+![image](https://github.com/J-FIES/j-fies-clothes/assets/135650607/b383966a-bb20-4d20-8c39-3d131e8ecffe)
+![image](https://github.com/J-FIES/j-fies-clothes/assets/135650607/dc8b96c0-9fc8-4db0-84fe-cd78964e3c0e)
+
 
 
 
