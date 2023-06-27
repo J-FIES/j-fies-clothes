@@ -1,4 +1,4 @@
-![Captura de pantalla (3) 2023-06-27 141310](https://github.com/J-FIES/j-fies-clothes/assets/135650566/3c3999fd-2123-4733-97fd-b78a29835a2a)# LOGOTIPO 2.0
+# LOGOTIPO 2.0
 ![Nuevo_fondo](https://github.com/J-FIES/j-fies-clothes/assets/135650607/cfb79555-3103-4476-886e-e8104f55f0af)
 # Slogan
 ⭐"The Best you can use ..."⭐
