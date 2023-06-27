@@ -1,0 +1,32 @@
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es-419\WindowsFormsApplication1.resources.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\J-fiess.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InicioSeción.resources
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registro.resources
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registro.es-419.resources
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\J-fiess.csproj.GenerateResource.Cache
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\es-419\WindowsFormsApplication1.resources.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es-419\WindowsFormsApplication1.resources.dll
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\J-fiess.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InicioSeción.resources
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registro.resources
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registro.es-419.resources
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\J-fiess.csproj.GenerateResource.Cache
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\es-419\WindowsFormsApplication1.resources.dll
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\SENA\Desktop\J.fies\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.EntityFramework.xml
