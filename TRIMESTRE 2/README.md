@@ -3,4 +3,9 @@
 # Slogan
 ⭐"The Best you can use ..."⭐
 
-# MODELO ENTIDAD RELACION 
+# MODELO ENTIDAD RELACIÓN 
+
+# MODELO RELACIONAL
+![Captura de pantalla 2023-06-27 140605](https://github.com/J-FIES/j-fies-clothes/assets/137224492/898de4f2-745b-4c59-99ae-606e010adb82)
+
+
