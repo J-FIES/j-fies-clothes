@@ -21,3 +21,5 @@
 ⚫ <H2> Froma Natural 3
 <br>
 ![Captura de pantalla (3) 2023-06-27 141310](https://github.com/J-FIES/j-fies-clothes/assets/135650566/88877852-87df-4b9f-bd9c-7a7266e49562)
+# DML PARA LA CONSTRUCCIÓN DE LA BASE DE DATOS DEL SISTEMA DE INFORMACIÓN
+![image](https://github.com/J-FIES/j-fies-clothes/assets/135650528/54c6a325-4a96-4895-9b2b-b8ab44b70ba6)
