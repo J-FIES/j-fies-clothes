@@ -4,6 +4,7 @@
 ⭐"The Best you can use ..."⭐
 
 # MODELO ENTIDAD RELACIÓN 
+![image](https://github.com/J-FIES/j-fies-clothes/assets/136500278/14882a25-036b-4a3a-ba7e-9f05248648c2)
 
 # MODELO RELACIONAL
 ![Captura de pantalla 2023-06-27 140605](https://github.com/J-FIES/j-fies-clothes/assets/137224492/898de4f2-745b-4c59-99ae-606e010adb82)
