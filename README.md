@@ -28,3 +28,5 @@ Principalmente el sistema que va a tener esta página web o aplicación está ba
 Propósito: La audiencia a la que se busca llegar es todo el público, pues esta aplicación o página web la va poder usar desde un niño de 10 años hasta una persona mayor de 50 años. 
 Crear una aplicación/página web en la cual se encuentre almacenado la ropa de la persona, combinaciones de la ropa que el usuario usa frecuentemente, esta respuesta será basada en la tendencia que se tenga en la actualidad y en los gustos del usuario.  
 
+# :black_circle:Mockups
+https://lucid.app/lucidspark/50031acc-187b-4580-8a44-6a6a16fedd80/edit?viewport_loc=2020%2C-1821%2C2560%2C1281%2C0_0&invitationId=inv_b836b789-18d0-4358-84f0-24f25a6ee284 
